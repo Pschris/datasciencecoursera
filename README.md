@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is the end of the assignment.
+This is end of the Course assignment.
